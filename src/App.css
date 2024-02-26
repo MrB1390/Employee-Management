@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    height: 100vh;
+    width: 80px;
+}
+
+.icon {
+    margin-bottom: 10px;
+}
+
+.icon img {
+    max-width: 100%; 
+    width: 30% !important;
+    height: 20% !important;
+}

@@ -1,0 +1,13 @@
+
+.sidebar {
+    height: 100vh; /* set height according to viewport*/
+    width: auto;   /* width changes when name displays*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#698ed9;
+    overflow-x: hidden;
+  }
+  
+
+  
